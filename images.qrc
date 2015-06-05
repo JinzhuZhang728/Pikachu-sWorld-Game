@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cherry_image.bmp</file>
+        <file>coin_image.bmp</file>
+        <file>diamond_image.bmp</file>
+        <file>monster_image.bmp</file>
+        <file>player_image.bmp</file>
+        <file>wall_image.bmp</file>
+        <file>bomb_image.bmp</file>
+        <file>pikachu_background_2.bmp</file>
+        <file>pikachu_background.bmp</file>
+        <file>bomb_sound.wav</file>
+        <file>CollectCoin.wav</file>
+    </qresource>
+</RCC>
